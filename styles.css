@@ -73,8 +73,8 @@ select {
 }
 
 .brand-logo {
-  width: 96px;
-  height: 96px;
+  width: 118px;
+  height: 118px;
   object-fit: contain;
   filter: drop-shadow(0 0 20px rgba(32, 211, 255, 0.52));
 }
@@ -1022,8 +1022,8 @@ h2 {
   }
 
   .brand-logo {
-    width: 68px;
-    height: 68px;
+    width: 82px;
+    height: 82px;
   }
 
   .brand-name {
