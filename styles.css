@@ -53,7 +53,7 @@ select {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  padding: 14px clamp(18px, 4vw, 64px);
+  padding: 10px clamp(18px, 4vw, 64px);
   border-bottom: 1px solid transparent;
   transition: background 0.2s ease, border-color 0.2s ease, backdrop-filter 0.2s ease;
 }
@@ -68,13 +68,13 @@ select {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   min-width: max-content;
 }
 
 .brand-logo {
-  width: 70px;
-  height: 70px;
+  width: 96px;
+  height: 96px;
   object-fit: contain;
   filter: drop-shadow(0 0 20px rgba(32, 211, 255, 0.52));
 }
@@ -1022,8 +1022,8 @@ h2 {
   }
 
   .brand-logo {
-    width: 50px;
-    height: 50px;
+    width: 68px;
+    height: 68px;
   }
 
   .brand-name {
